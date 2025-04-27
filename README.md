@@ -71,7 +71,6 @@ As outlined in our paper:
 - Hussain Al-Asaad
 
 University of California, Davis  
-Course Project — Embedded Systems Architecture and Design
 
 ## License
 This project is made available for educational purposes.
