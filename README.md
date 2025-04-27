@@ -14,8 +14,14 @@ Three major test scenarios were designed:
 > As a result, there is no detailed commit history from the early development stages.
 
 ## Repository Structure
-```external_interrupt_testing/ ├── src/# Source VHDL files (NEORV32 modules and any custom modifications) ├── testbenches/ # VHDL-based testbenches for ModelSim simulation ├── docs/ # Project abstract, paper, and related documentation ├── README.md # Project overview and instructions (this file)```
 
+```
+external_interrupt_testing/
+├── src/                # Source VHDL files (NEORV32 modules and custom modifications)
+├── testbenches/        # VHDL-based testbenches for ModelSim simulation
+├── docs/               # Project abstract, paper, and documentation
+├── README.md           # Project overview and instructions (this file)
+```
 
 ## Experimental Setup
 - **Processor**: NEORV32 RISC-V (version 9.8)
