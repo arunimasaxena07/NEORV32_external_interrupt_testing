@@ -43,7 +43,6 @@ Testbenches were carefully crafted to simulate real-world external interrupts us
 | **Test Case 2: Edge Case**         | Testing with high-magnitude operand values                  | Level-triggered       | No overflow, correct execution |
 | **Test Case 3: Rising Edge-Triggered** | Temporal sensitivity validation (0 → 1 transition)         | Rising edge-triggered | Proper detection without false triggers |
 
-> Full details are available in the `docs/Testing_External_Interrupts_in_the_NEORV32_RISC_V_Processor.pdf`.
 
 ## How to Simulate
 1. **Launch ModelSim**.
