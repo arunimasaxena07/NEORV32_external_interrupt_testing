@@ -19,7 +19,6 @@ Three major test scenarios were designed:
 external_interrupt_testing/
 ├── src/                # Source VHDL files (NEORV32 modules and custom modifications)
 ├── testbenches/        # VHDL-based testbenches for ModelSim simulation
-├── docs/               # Project abstract, paper, and documentation
 ├── README.md           # Project overview and instructions (this file)
 ```
 
